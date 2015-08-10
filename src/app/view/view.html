@@ -1,0 +1,13 @@
+<section ng-class="{'active-modal': vm.isModalActive}">
+  <header class="main-header">
+    <h1>Dominode</h1>
+    <span>A Dom Node Explorer.</span>
+  </header>
+  <website-grabber parse="vm.getSampleFile(html)" modal="vm.isModalActive" sample-html="vm.sampleHtml"></website-grabber>
+
+  <footer class="main-footer">
+    <p>Created by Scott MacDowell <a href="http://www.scottwillcode.com"</a></p>
+    <a a href="https://github.com/scottmacdowell/dominode" class="github">GitHub Repo</a>
+  </footer>
+</section>
+<dominode-modal node-list="vm.nodeList()" modal="vm.isModalActive" ng-if="vm.isModalActive"></dominode-modal>

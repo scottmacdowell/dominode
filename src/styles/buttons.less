@@ -1,0 +1,27 @@
+//Global Button Styles
+button { cursor: pointer;}
+
+@button-border: 1px solid @button-border-color;
+@button-rounded-corners: 2px;
+@button-padding: 8px 15px 8px 15px;
+
+//Button mixins
+.submit-button {
+  padding: @button-padding;
+  background: @button-background-color;
+  border-radius: @button-rounded-corners;
+  border: @button-border;
+  .button-text;
+  .button-hover;
+}
+
+.full-width-button {
+  .submit-button;
+  width: 100%;
+}
+
+.button-hover {
+  &:hover {
+    background: @button-hover-background-color;
+  }
+}

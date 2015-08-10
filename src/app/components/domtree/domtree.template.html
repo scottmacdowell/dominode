@@ -1,0 +1,28 @@
+<span
+    ng-class="{'file': !node.type, 'selected': isSelected}"
+    ng-click="toggleFolder(node)"
+    ng-show="isParentActive">
+
+    <i ng-class="{
+        'show-more': node.type && !open,
+        'show-less': node.type && open,
+        'no-icon': !node.type }"
+       ng-style="setFolderMargin(node.type, node.depth)">
+
+        view {{(node.active) ? 'less' : 'more'}}
+    </i>
+
+    <i ng-style="setFileMargin(node.type, node.depth)">
+        {{(node.type) ? 'folder:' : 'file:'}}
+    </i>
+
+    {{node.type || node.text}}
+</span>
+<ul>
+    <li class="folder" ng-repeat="node in node.folders">
+        <domtree node="node" is-parent-active='open'></domtree>
+    </li>
+    <li class="file" ng-repeat="node in node.files">
+        <domtree node="node" is-parent-active='open'></domtree>
+    </li>
+</ul>

@@ -1,0 +1,51 @@
+//Icon Variables
+@explorer-tree-icons-path: '../assets/sprites/icon-sprite.png';
+.dimensions {
+  height: 14px;
+  width: 14px;
+}
+.small-dimensons {
+  height: 9px;
+  width: 9px;
+}
+
+//Icon Mixins
+.folder-icon {
+  background: url(@explorer-tree-icons-path) 0 0;
+  .dimensions;
+}
+
+.private-folder-icon {
+  background: url(@explorer-tree-icons-path) -14px 0;
+  .dimensions;
+}
+
+.file-icon {
+  background: url(@explorer-tree-icons-path) -28px 0;
+  .dimensions;
+}
+
+.close-icon {
+  background: url(@explorer-tree-icons-path) -42px 0px;
+  .dimensions;
+}
+
+.more-icon-black {
+  background: url(@explorer-tree-icons-path) -58px -2px;
+  .small-dimensons;
+}
+
+.more-icon-white {
+  background: url(@explorer-tree-icons-path) -86px -2px;
+  .small-dimensons;
+}
+
+.less-icon-black {
+  background: url(@explorer-tree-icons-path) -72px -2px;
+  .small-dimensons;
+}
+
+.less-icon-white {
+  background: url(@explorer-tree-icons-path) -100px -2px;
+  .small-dimensons;
+}

@@ -1,0 +1,18 @@
+
+<section class="modal-container">
+  <div class="modal-background" ng-click="closeModal()"></div>
+  <div class="modal">
+    <header class="main-header">
+      <h1>{{getTitle(nodeList.head)}} <i ng-click="closeModal()">Close Modal</i></h1>
+      <span>{{selectedNode || 'Please make a selection'}}</span>
+    </header>
+    <article class="domtree">
+      <domtree node="nodeList.body" is-parent-active="true" selected-node="selectedNode"></domtree>
+      <domtree class="private-folder" node="nodeList.head" is-parent-active="true"selected-node="selectedNode"></domtree>
+    </article>
+    <footer>
+      <a>Link</a>
+      <button ng-click="closeModal()">Done</button>
+    </footer>
+  </div>
+</section>
