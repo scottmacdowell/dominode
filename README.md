@@ -1,2 +1,2 @@
 # dominode
-A DOM parse and Tree Explore made with Angular
+A DOM parser and Tree Explorer made with Angular
