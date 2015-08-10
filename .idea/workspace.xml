@@ -2,78 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c02e7291-4ff7-443b-9e25-66f0480d881e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/android-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/android-icon-192x192.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/android-icon-36x36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/android-icon-48x48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/android-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/android-icon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-120x120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-152x152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-180x180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-57x57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-60x60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-76x76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/apple-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/favicon-16x16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/favicon-32x32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/favicon-96x96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/sprites/icon-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/ms-icon-144x144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/ms-icon-150x150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/ms-icon-310x310.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/ms-icon-70x70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/colors.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/controller/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/services/dom-parser.factory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/dominode-modal/dominode-modal.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/dominode-modal/dominode-modal.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/dominode-modal/dominode-modal.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/domtree/domtree.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/domtree/domtree.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/domtree/domtree.template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/e2e-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/fonts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/index.run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/inject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/styles/layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/favicons/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/domtree/recursion-helper.factory.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/scripts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/styles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/unit-tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/view.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/view/view.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/watch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/website-grabber/website-grabber.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/website-grabber/website-grabber.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/website-grabber/website-grabber.template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="yay.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.4" vertical-offset="0" max-vertical-offset="150">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.03994674" vertical-offset="0" max-vertical-offset="751">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -137,10 +67,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="776">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -266,7 +196,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -302,14 +232,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.4" vertical-offset="0" max-vertical-offset="150">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protractor.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="776">
@@ -338,6 +260,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="776">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03994674" vertical-offset="0" max-vertical-offset="751">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
